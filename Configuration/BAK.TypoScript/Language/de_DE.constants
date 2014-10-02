@@ -1,0 +1,9 @@
+# customsubcategory=trb_basics.language.target.de_DE=Language Target de_DE
+
+trb_basics.language.target.de_DE {
+	# cat=TRB Common: System/trb_basics.language.target.de_DE/10; type=int; label=Language UID;
+	uid = -1
+	
+	# cat=TRB Common: System/trb_basics.language.target.de_DE/20; type=string; label=Site url;
+	url = {$trb_basics.settings.general.site_url}
+}

@@ -1,0 +1,6 @@
+# customsubcategory=trb_basics_typoscript.body.logo=Logo
+
+trb_basics_typoscript.body.logo {
+	# cat=TRB Basics: Body/trb_basics_typoscript.body.logo/20; type=string; label=Logo path;
+	path =
+}

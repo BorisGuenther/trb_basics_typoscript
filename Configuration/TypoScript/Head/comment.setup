@@ -1,0 +1,9 @@
+config.disablePrefixComment = {$trb_basics_typoscript.head.comment.element_comment}
+config.formatHtml = {$trb_basics_typoscript.head.comment.linebreaks}
+config.headerComment (
+{$trb_basics_typoscript.head.comment.line.1}
+{$trb_basics_typoscript.head.comment.line.2}
+{$trb_basics_typoscript.head.comment.line.3}
+{$trb_basics_typoscript.head.comment.line.4}
+
+)

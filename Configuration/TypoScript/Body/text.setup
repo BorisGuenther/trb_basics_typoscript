@@ -1,0 +1,15 @@
+#Text 1
+trb_basics_typoscript.body.text.1 = TEXT
+trb_basics_typoscript.body.text.1.value = {$trb_basics_typoscript.body.text.1.content}
+
+#Text 2
+trb_basics_typoscript.body.text.2 = TEXT
+trb_basics_typoscript.body.text.2.value = {$trb_basics_typoscript.body.text.2.content}
+
+#Text 3
+trb_basics_typoscript.body.text.3 = TEXT
+trb_basics_typoscript.body.text.3.value = {$trb_basics_typoscript.body.text.3.content}
+
+#Text 4
+trb_basics_typoscript.body.text.4 = TEXT
+trb_basics_typoscript.body.text.4.value = {$trb_basics_typoscript.body.text.4.content}

@@ -1,0 +1,13 @@
+#Prefix header comment
+config.headerComment (
+This website was developed by
+The Ritz Biz
+Prop. Boris Günther
+http://www.the-ritz.biz
+)
+
+#Show Content Element Comments
+config.disablePrefixComment = {$trb_basics.page.comment.element_comment}
+
+#Format HTML Code
+config.formatHtml = {$trb_basics.page.comment.linebreaks}

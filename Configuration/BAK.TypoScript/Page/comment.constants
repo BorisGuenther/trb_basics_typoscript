@@ -1,0 +1,6 @@
+# customsubcategory=trb_basics.page.comment=Comment
+
+trb_basics.page.comment {
+	element_comment = 0
+	linebreaks = 4
+}

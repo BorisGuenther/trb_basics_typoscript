@@ -1,0 +1,5 @@
+#Setup page
+page = PAGE
+
+#Load TRB_Basics Settings
+<INCLUDE_TYPOSCRIPT: source="DIR:EXT:trb_basics_typoscript/Configuration/TypoScript/" extensions="setup">

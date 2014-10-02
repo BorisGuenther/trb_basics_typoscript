@@ -1,0 +1,6 @@
+[globalVar = GP:L = {$trb_basics.language.target.en_GB.uid}]
+	config.sys_language_uid = {$trb_basics.language.target.en_GB.uid}
+	config.baseURL = {$trb_basics.language.target.en_GB.url}
+	config.language = en
+	config.locale_all = en_GB
+[global]

@@ -1,0 +1,10 @@
+#Setup Meta-Tags
+page.meta.viewport = {$trb_basics.page.meta.tag.viewport}
+page.meta.Content-Type = {$trb_basics.page.meta.tag.contenttype}
+page.meta.X-UA-Compatible = IE=edge
+
+[globalVar = LIT:0<{$trb_basics.page.meta.page_meta}]
+	page.meta.author.field = author
+	page.meta.description.field = description
+	page.meta.keywords.field = keywords
+[global]

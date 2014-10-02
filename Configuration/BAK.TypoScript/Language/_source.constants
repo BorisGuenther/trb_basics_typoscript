@@ -1,0 +1,12 @@
+# customsubcategory=trb_basics.language.source=Language Source
+
+trb_basics.language.source {
+	# cat=TRB Common: System/trb_basics.language.source/10; type=string; label=Short;
+	language =
+
+	# cat=TRB Common: System/trb_basics.language.source/20; type=string; label=Locale;
+	locale =
+	
+	# cat=TRB Common: System/trb_basics.language.source/30; type=string; label=Site url;
+	url = {$trb_basics.settings.general.site_url}
+}

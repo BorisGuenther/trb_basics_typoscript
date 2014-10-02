@@ -1,0 +1,9 @@
+# customsubcategory=trb_basics_typoscript.head.google.analytics=Google Analytics
+
+trb_basics_typoscript.head.google.analytics {
+	# cat=TRB Basics: Head/trb_basics_typoscript.head.google.analytics/10; type=boolean; label=Enable;
+	enable = 0
+
+	# cat=TRB Basics: Head/trb_basics_typoscript.head.google.analytics/20; type=string; label=Token;
+	token =
+}

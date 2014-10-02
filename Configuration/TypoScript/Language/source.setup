@@ -1,0 +1,14 @@
+config {
+	#Link Vars
+	linkVars = L
+	uniqueLinkVars = 1
+	
+	#Content mode
+	sys_language_mode=content_fallback
+	
+	#Source language
+	sys_language_uid = 0
+	language = {$trb_basics_typoscript.language.source.language}
+	locale_all = {$trb_basics_typoscript.language.source.locale}
+	baseURL = {$trb_basics_typoscript.language.source.url}
+}

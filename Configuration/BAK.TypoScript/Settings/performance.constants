@@ -1,0 +1,19 @@
+# customsubcategory=trb_basics.settings.performance=Performance
+
+trb_basics.settings.performance {
+	# cat=TRB Common: System/trb_basics.settings.performance/10; type=boolean; label=Cache Disable;
+	cache.disable = 0
+	
+	# cat=TRB Common: System/trb_basics.settings.performance/20; type=boolean; label=CSS Compress;
+	css.compress = 0
+	
+	# cat=TRB Common: System/trb_basics.settings.performance/30; type=boolean; label=CSS Merge;
+	css.merge = 0
+	
+	# cat=TRB Common: System/trb_basics.settings.performance/40; type=boolean; label=JS Compress;
+	js.compress = 0
+	
+	# cat=TRB Common: System/trb_basics.settings.performance/50; type=boolean; label=JS Merge;
+	js.merge = 0
+	
+}

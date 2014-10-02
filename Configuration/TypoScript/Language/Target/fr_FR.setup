@@ -1,0 +1,6 @@
+[globalVar = GP:L = {$trb_basics_typoscript.language.target.fr_FR.uid}]
+	config.sys_language_uid = {$trb_basics_typoscript.language.target.fr_FR.uid}
+	config.baseURL = {$trb_basics_typoscript.language.target.fr_FR.url}
+	config.language = fr
+	config.locale_all = fr_FR
+[global]

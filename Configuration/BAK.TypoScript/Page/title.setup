@@ -1,0 +1,10 @@
+#Setup Title
+config.noPageTitle = 1
+page.headerData = COA
+page.headerData {
+	10 = TEXT
+	10 {
+		field = title
+		noTrimWrap = |<title>{$trb_basics.page.title.text}</title>|
+	}
+}

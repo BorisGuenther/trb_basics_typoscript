@@ -1,0 +1,6 @@
+# customsubcategory=trb_basics.settings.realurl=RealURL
+
+trb_basics.settings.realurl {
+	# cat=TRB Common: System/trb_basics.settings.realurl/10; type=boolean; label=Enable;
+	enable = 0
+}

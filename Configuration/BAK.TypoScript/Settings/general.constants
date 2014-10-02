@@ -1,0 +1,9 @@
+# customsubcategory=trb_basics.settings.general=General
+
+trb_basics.settings.general {
+	# cat=TRB Common: Content/trb_basics.settings.general/10; type=string; label=Site name;
+	site_name = 
+	
+	# cat=TRB Common: Content/trb_basics.settings.general/20; type=string; label=Site url;
+	site_url = 
+}

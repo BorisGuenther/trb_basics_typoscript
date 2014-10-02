@@ -1,0 +1,7 @@
+# customsubcategory=trb_basics.page.meta=Meta
+
+trb_basics.page.meta {
+	tag.viewport = width=device-width, initial-scale=1.0, user-scalable=no
+	tag.contenttype = text/html; charset=utf-8
+	page_meta = 1
+}

@@ -1,0 +1,9 @@
+# customsubcategory=trb_basics_typoscript.language.target.en_GB=Target en_GB
+
+trb_basics_typoscript.language.target.en_GB {
+	# cat=TRB Basics: Language/trb_basics_typoscript.language.target.en_GB/10; type=int; label=Language UID;
+	uid = -1
+	
+	# cat=TRB Basics: Language/trb_basics_typoscript.language.target.en_GB/20; type=string; label=Site url;
+	url = {$trb_basics_typoscript.settings.general.site_url}
+}

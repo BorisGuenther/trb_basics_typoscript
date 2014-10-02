@@ -1,0 +1,39 @@
+//Adjust titles
+trb_basics.helper.section_id = TEXT
+trb_basics.helper.section_id {
+	field = title
+	trim = 1
+	case = lower
+	replacement {
+		10 {
+			search.char = 32
+			replace = -
+		}
+		20 {
+			search = /(ä|Ä)/
+			useRegExp = 1
+			replace = ae
+		}
+		30 {
+			search = /(ö|Ö)/
+			useRegExp = 1
+			replace = oe
+		}
+		40 {
+			search = /(ü|Ü)/
+			useRegExp = 1
+			replace = ue
+		}
+		50 {
+			search = ß
+			replace = ss
+		}
+		60 {
+			search = /\/\\\.\:\;\,\&/
+			useRegExp = 1
+			replace =
+		}
+	}
+	
+	dataWrap = |-pid{field:uid}
+}

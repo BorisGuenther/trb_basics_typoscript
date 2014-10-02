@@ -1,0 +1,9 @@
+# customsubcategory=trb_basics.content.image=Images
+
+trb_basics.content.image {
+	# cat=TRB Common: Content/trb_basics.content.image/20; type=string; label=Logo path;
+	logo =
+
+	# cat=TRB Common: Content/trb_basics.content.image/30; type=string; label=Icon path;
+	icon =
+}

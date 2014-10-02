@@ -1,0 +1,9 @@
+# customsubcategory=trb_basics_typoscript.general.site=Site
+
+trb_basics_typoscript.general.site {
+	# cat=TRB Basics: General/trb_basics_typoscript.general.site/10; type=string; label=Site name;
+	name = 
+	
+	# cat=TRB Basics: General/trb_basics_typoscript.general.site/20; type=string; label=Site url;
+	url = 
+}

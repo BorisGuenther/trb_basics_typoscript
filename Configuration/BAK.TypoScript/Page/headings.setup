@@ -1,0 +1,4 @@
+#Setup Heading
+[globalVar = LIT:0<{$trb_basics.page.headings.allowHtml}]
+	lib.stdheader.10.setCurrent.htmlSpecialChars = 0
+[global]

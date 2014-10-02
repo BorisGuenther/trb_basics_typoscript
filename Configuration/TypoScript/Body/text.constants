@@ -1,0 +1,15 @@
+# customsubcategory=trb_basics_typoscript.body.text=Texts
+
+trb_basics_typoscript.body.text {
+	# cat=TRB Basics: Body/trb_basics_typoscript.body.text/10; type=string; label=Content 1;
+	1.content = 
+
+	# cat=TRB Basics: Body/trb_basics_typoscript.body.text/20; type=string; label=Content 2;
+	2.content = 
+
+	# cat=TRB Basics: Body/trb_basics_typoscript.body.text/30; type=string; label=Content 3;
+	3.content = 
+
+	# cat=TRB Basics: Body/trb_basics_typoscript.body.text/40; type=string; label=Content 4;
+	4.content = 
+}

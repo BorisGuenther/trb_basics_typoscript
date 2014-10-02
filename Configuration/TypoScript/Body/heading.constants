@@ -1,0 +1,11 @@
+# customsubcategory=trb_basics_typoscript.body.heading=Heading
+
+trb_basics_typoscript.body.heading {
+	# cat=TRB Basics: Body/trb_basics_typoscript.body.heading/10; type=options[1,2,3,4,5]; label=Default Heading Size;
+	defaultHeader = 2
+
+	# cat=TRB Basics: Body/trb_basics_typoscript.body.heading/20; type=boolean; label=Allow HTML;
+	allowHtml = 1
+}
+
+content.defaultHeaderType = {$trb_basics_typoscript.body.heading.defaultHeader}

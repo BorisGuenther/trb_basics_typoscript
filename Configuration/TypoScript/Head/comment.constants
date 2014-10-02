@@ -1,0 +1,18 @@
+# customsubcategory=trb_basics_typoscript.head.comment=Comment
+
+trb_basics_typoscript.head.comment {
+	element_comment = 0
+	linebreaks = 4
+	
+	# cat=TRB Basics: Head/trb_basics_typoscript.head.comment/10; type=string; label=Header Comment Line 1;
+	line.1 = This website was developed by:
+	
+	# cat=TRB Basics: Head/trb_basics_typoscript.head.comment/20; type=string; label=Header Comment Line 2;
+	line.2 =
+	
+	# cat=TRB Basics: Head/trb_basics_typoscript.head.comment/30; type=string; label=Header Comment Line 3;
+	line.3 =
+	
+	# cat=TRB Basics: Head/trb_basics_typoscript.head.comment/40; type=string; label=Header Comment Line 4;
+	line.4 =
+}

@@ -1,0 +1,10 @@
+#Logo
+trb_basics.content.image.logo = TEXT
+trb_basics.content.image.logo.value = <img src="{$trb_basics.content.image.logo}" class="logo-header" alt="{$trb_basics.settings.general.site_name}" title="{$trb_basics.settings.general.site_name}" />
+
+#Icon
+page.headerData.99930 = TEXT
+page.headerData.99930.value (
+	<link href="{$trb_basics.content.image.icon}" type="image/png" rel="shortcut icon">
+	<link href="{$trb_basics.content.image.icon}" type="image/png" rel="icon">
+)

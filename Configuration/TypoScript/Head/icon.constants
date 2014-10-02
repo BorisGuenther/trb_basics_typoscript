@@ -1,0 +1,6 @@
+# customsubcategory=trb_basics_typoscript.head.icon=Icon
+
+trb_basics_typoscript.head.icon {
+	# cat=TRB Basics: Head/trb_basics_typoscript.head.icon/10; type=string; label=Icon path;
+	path =
+}

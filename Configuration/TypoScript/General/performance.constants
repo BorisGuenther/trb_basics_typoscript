@@ -1,0 +1,18 @@
+# customsubcategory=trb_basics_typoscript.general.performance=Performance
+
+trb_basics_typoscript.general.performance {
+	# cat=TRB Basics: General/trb_basics_typoscript.general.performance/10; type=boolean; label=Cache Disable;
+	cache.disable = 0
+	
+	# cat=TRB Basics: General/trb_basics_typoscript.general.performance/20; type=boolean; label=CSS Compress;
+	css.compress = 0
+	
+	# cat=TRB Basics: General/trb_basics_typoscript.general.performance/30; type=boolean; label=CSS Merge;
+	css.merge = 0
+	
+	# cat=TRB Basics: General/trb_basics_typoscript.general.performance/40; type=boolean; label=JS Compress;
+	js.compress = 0
+	
+	# cat=TRB Basics: General/trb_basics_typoscript.general.performance/50; type=boolean; label=JS Merge;
+	js.merge = 0
+}

@@ -1,0 +1,21 @@
+# customsubcategory=trb_basics.content.text=Texts
+
+trb_basics.content.text.1 {
+	# cat=TRB Common: Content/trb_basics.content.text/10; type=string; label=Content 1;
+	content = 
+}
+
+trb_basics.content.text.2 {
+	# cat=TRB Common: Content/trb_basics.content.text/20; type=string; label=Content 2;
+	content = 
+}
+
+trb_basics.content.text.3 {
+	# cat=TRB Common: Content/trb_basics.content.text/30; type=string; label=Content 3;
+	content = 
+}
+
+trb_basics.content.text.4 {
+	# cat=TRB Common: Content/trb_basics.content.text/40; type=string; label=Content 4;
+	content = 
+}

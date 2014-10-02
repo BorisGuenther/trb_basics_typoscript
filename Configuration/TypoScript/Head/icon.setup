@@ -1,0 +1,5 @@
+page.headerData.99930 = TEXT
+page.headerData.99930.value (
+	<link href="{$trb_basics_typoscript.head.icon.path}" type="image/png" rel="shortcut icon">
+	<link href="{$trb_basics_typoscript.head.icon.path}" type="image/png" rel="icon">
+)

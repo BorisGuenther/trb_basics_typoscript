@@ -1,0 +1,2 @@
+trb_basics_typoscript.body.logo = TEXT
+trb_basics_typoscript.body.value = <img src="{$trb_basics_typoscript.body.logo.path}" class="logo-header" alt="{$trb_basics_typoscript.general.site.name}" title="{$trb_basics_typoscript.general.site.name}" />

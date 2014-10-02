@@ -1,0 +1,6 @@
+# customsubcategory=trb_basics_typoscript.head.title=Title
+
+trb_basics_typoscript.head.title {
+	# cat=TRB Basics: Head/trb_basics_typoscript.head.title/10; type=wrap; label=Text;
+	text = {$trb_basics_typoscript.general.site.name} &raquo; |
+}

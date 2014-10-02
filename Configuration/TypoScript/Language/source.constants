@@ -1,0 +1,12 @@
+# customsubcategory=trb_basics_typoscript.language.source=Source
+
+trb_basics_typoscript.language.source {
+	# cat=TRB Basics: Language/trb_basics_typoscript.language.source/10; type=string; label=Short;
+	language =
+
+	# cat=TRB Basics: Language/trb_basics_typoscript.language.source/20; type=string; label=Locale;
+	locale =
+	
+	# cat=TRB Basics: Language/trb_basics_typoscript.language.source/30; type=string; label=Site url;
+	url = {$trb_basics_typoscript.settings.general.site_url}
+}

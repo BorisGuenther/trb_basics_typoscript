@@ -1,0 +1,7 @@
+# customsubcategory=trb_basics.page.title=Title
+
+trb_basics.page.title {
+	# cat=TRB Common: Content/trb_basics.page.title/10; type=wrap; label=Text;
+	text = {$trb_basics.settings.general.site_name}: |
+	
+}

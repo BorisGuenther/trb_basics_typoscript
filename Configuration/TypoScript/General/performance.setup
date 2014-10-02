@@ -1,0 +1,5 @@
+config.no_cache = {$trb_basics_typoscript.general.performance.cache.disable}
+config.compressCss = {$trb_basics_typoscript.general.performance.css.compress}
+config.concatenateCss = {$trb_basics_typoscript.general.performance.css.merge}
+config.compressJs = {$trb_basics_typoscript.general.performance.js.compress}
+config.concatenateJs = {$trb_basics_typoscript.general.performance.js.merge}

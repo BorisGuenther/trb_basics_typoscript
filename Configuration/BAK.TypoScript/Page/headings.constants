@@ -1,0 +1,10 @@
+# customsubcategory=trb_basics.page.headings=Headings
+trb_basics.page.headings {
+	# cat=TRB Common: Content/trb_basics.page.headings/10; type=int[1-5]; label=Default Heading Size;
+	defaultHeader = 2
+
+	# cat=TRB Common: Content/trb_basics.page.headings/20; type=boolean; label=Allow HTML;
+	allowHtml = 1
+}
+
+content.defaultHeaderType = {$trb_basics.page.headings.defaultHeader}

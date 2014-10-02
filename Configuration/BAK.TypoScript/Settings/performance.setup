@@ -1,0 +1,5 @@
+config.no_cache = {$trb_basics.settings.performance.cache.disable}
+config.compressCss = {$trb_basics.settings.performance.css.compress}
+config.concatenateCss = {$trb_basics.settings.performance.css.merge}
+config.compressJs = {$trb_basics.settings.performance.js.compress}
+config.concatenateJs = {$trb_basics.settings.performance.js.merge}
